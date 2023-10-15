@@ -40,7 +40,6 @@ The project is organized into the following sections:
 
 ## Exploratory Data Analysis (EDA)
 - EDA was conducted to understand the distribution of variables, identify outliers, and explore correlations.
-- Key EDA findings include 
 
 ## Model Development
 - An Artificial Neural Network (ANN) was built to model the relationships between key factors and home prices.
